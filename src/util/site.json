@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Dron Wycena",
+    "titleTemplate": "%s",
+    "description": "Wykorzystujemy drony do wspomagania wyceny nieruchomości.",
+    "siteUrl": "https://dron.wycena.biz",
+    "image": "/assets/aoperat-logo-transparent.png",
+    "iconimage": "/assets/aoperat-logo-transparent.png"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
